@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.eim.exempluexemplu
+package ro.pub.cs.systems.eim.practicaltesttt
 
 import org.junit.Test
 

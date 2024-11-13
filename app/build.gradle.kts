@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "ro.pub.cs.systems.eim.exempluexemplu"
-    compileSdk = 34
+    namespace = "ro.pub.cs.systems.eim.practicaltesttt"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "ro.pub.cs.systems.eim.exempluexemplu"
+        applicationId = "ro.pub.cs.systems.eim.practicaltesttt"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -49,6 +49,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.appcompat)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

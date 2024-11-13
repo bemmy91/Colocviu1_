@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.eim.exempluexemplu.ui.theme
+package ro.pub.cs.systems.eim.practicaltesttt.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
