@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.eim.testcolocviuexemplu
+package ro.pub.cs.systems.eim.exempluexemplu
 
 import org.junit.Test
 

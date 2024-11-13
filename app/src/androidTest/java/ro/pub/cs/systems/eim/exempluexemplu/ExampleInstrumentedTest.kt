@@ -1,4 +1,4 @@
-package ro.pub.cs.systems.eim.testcolocviuexemplu
+package ro.pub.cs.systems.eim.exempluexemplu
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("ro.pub.cs.systems.eim.testcolocviuexemplu", appContext.packageName)
+        assertEquals("ro.pub.cs.systems.eim.exempluexemplu", appContext.packageName)
     }
 }
